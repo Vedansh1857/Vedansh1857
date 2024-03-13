@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://vedansh1857.io)
 <h1 align="center">Hi 👋, This is Vedansh Gupta</h1>
 <h3 align="center">A problem solver & a python developer from India...</h3>
-<img align="right" alt="Coding width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611cdc8d5841e3c4e63f220aaa9f1c673035e4ccf67&rid=giphy.gif&ct=g"
+<img align="centre" alt="Coding width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611cdc8d5841e3c4e63f220aaa9f1c673035e4ccf67&rid=giphy.gif&ct=g"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedansh1857&label=Profile%20views&color=0d7bbf&style=flat" alt="vedansh1857" /> </p>
 
