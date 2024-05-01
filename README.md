@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedansh1857&label=Profile%20views&color=0d7bbf&style=flat" alt="vedansh1857" /> </p>
 
-- 🔭 I’m currently working on **NLP Text Summarization**
+- 🔭 I’m currently working on **Developing ATS using AI**
 
 - 🌱 I’m currently learning **Generative AI**
 
