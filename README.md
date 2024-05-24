@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-d322f.web.app](https://my-portfolio-d322f.web.app)
+- 👨‍💻 All of my projects are available at https://techfolio.dev.voyage
 
 - 💬 Ask me about **Data Science**
 
