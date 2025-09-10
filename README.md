@@ -1,12 +1,12 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://vedansh1857.io)
 <h1 align="center">Hi 👋, This is Vedansh Gupta</h1>
-<h3 align="center">A problem solver & a python developer from India...</h3>
+<h3 align="center">A software developer & an AI engineer from India...</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedansh1857&label=Profile%20views&color=0d7bbf&style=flat" alt="vedansh1857" /> </p>
 
-- 🔭 I’m currently working on **Generative AI Projects**
+- 🔭 I’m currently working on **Python & GenAI Projects**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://techfolio.dev.voyage/](https://techfolio.dev.voyage/)
 
