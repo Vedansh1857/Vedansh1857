@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **vedanshgupta606@gmail.com**
 
-- 📄 My resume [Click Here](https://drive.google.com/file/d/1zhIb9ZQEPoEHFRNlJo6ktSQo8qU2-ioP/view)
+- 📄 My resume [Click Here]([https://drive.google.com/file/d/1zhIb9ZQEPoEHFRNlJo6ktSQo8qU2-ioP/view](https://drive.google.com/file/d/1SNwzEGJGYcMH0qNdNrEpVOj7ke4C9JxE/view?usp=sharing))
 
 - ⚡ Fun fact **Machine Learning is sometimes hilarious. It can recognize a cat as a bowl of spaghetti due to quirky patterns in data.**
 
